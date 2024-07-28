@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HMAO India Affiliate Program</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Join the HMAO India Affiliate Program</h1>
+            <p>Earn commissions by promoting our unique gifts and home decor products. Start sharing today!</p>
+        </header>
+        <main>
+            <section class="product">
+                <h2>Featured Product</h2>
+                <img src="product.jpg" alt="Featured Product">
+                <p>Discover our exclusive range of home decor and gifts. Perfect for any occasion!</p>
+                <a href="https://www.hmao.in" class="start-now-button">Start Now</a>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2024 HMAO India. All rights reserved.</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
